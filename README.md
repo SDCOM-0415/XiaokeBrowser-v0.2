@@ -1,5 +1,5 @@
 # XiaokeBrowser-v0.2 Open Source Version Development Documentation
-中文Chinese：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README-ZH.md
+中文（Chinese）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README-ZH.md
 ## Preface
 Xiaoke Browser is a lightweight and powerful browser, characterized by a simple interface, lightweight applications, excellent performance, and pure ad free features.<br />
 This open source version is v0.2.2.0128, for developers to learn and use.<br />
