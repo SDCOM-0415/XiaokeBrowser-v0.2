@@ -1,7 +1,7 @@
 # 暁柯ブラウザv 0.2オープンソース版ウィザード（日本語版）
 
-中国語版（中文版/Chinese）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README-ZH.md
-英語版（英语版/English）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README.md
+中国語版（中文版/Chinese）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README-ZH.md<br />
+英語版（英语版/English）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README.md<br />
 【Here!】日本語版（日文版/Japanese）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README-JP.md
 
 ## はじめに
