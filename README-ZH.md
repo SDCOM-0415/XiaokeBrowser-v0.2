@@ -1,4 +1,7 @@
 # 晓柯浏览器v0.2开源版向导（中文版）
+【Here!】中文版（Chinese/中国語版）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README-ZH.md<br />
+英语版（English/英語版）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README.md<br />
+日文版（Japanese/日本語版）：https://github.com/chgskj/XiaokeBrowser-v0.2/blob/main/README-JP.md
 ## 前言
 晓柯浏览器是一个轻量强大的浏览器，具有界面简洁、应用轻量、性能发挥到位、纯净无广告的特点。<br />
 本开源版本为v0.2.2.0128版本，供广大开发者学习使用。<br />
