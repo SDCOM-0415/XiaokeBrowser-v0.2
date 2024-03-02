@@ -29,7 +29,7 @@ This file is the icon used during the compilation of this program, and you can r
 ### config.ini
 This file is the configuration file for Xiaoke Browser v0.2 open-source version, and it will not be explained in detail here.
 
-## About Developermt
+## About Development
 This project is an open-source project, and we will not elaborate on its development here. Please explore and develop it yourself.<br />
 The entire development process of this program was carried out using Python version 3.9.3, and a special statement is made here.<br />
 If you have any questions, you can contact us at our email: admin@chgskj.cn.
